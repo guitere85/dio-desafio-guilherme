@@ -1,2 +1,2 @@
 # dio-desafio-guilherme
-repositorio criado ccomo ativdidade bootcamp Digital Innovation One
+repositorio criado como atividade bootcamp Digital Innovation One
